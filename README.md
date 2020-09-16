@@ -13,8 +13,8 @@ Suggested Installation
 Timetable
 ---------
 
-|               | Sept. 23rd    | Sept. 29th     | Oct. 1st   |   Oct. 6th      |
-|--------------------------------------------------------------------------------
+|              |  Sept. 23rd    | Sept. 29th     | Oct. 1st   |   Oct. 6th      |
+|--------------|----------------|----------------|------------|-----------------|
 | 16:00-17:00  | Set up & intro | Numpy & pandas | Plotting   | ODE integration |
 | 17:00-18:00  | Basics & flow  | Numpy & pandas | Simulation | Best practices  |
 
