@@ -13,10 +13,10 @@ Suggested Installation
 Timetable
 ---------
 
-|              |  Sept. 23rd    | Sept. 29th     | Oct. 1st   |   Oct. 6th      |
-|--------------|----------------|----------------|------------|-----------------|
-| 16:00-17:00  | Set up & intro | Numpy & pandas | Plotting   | ODE integration |
-| 17:00-18:00  | Basics & flow  | Numpy & pandas | Simulation | Optimization    |
+|              |  Sept. 20rd    | Sept. 22th     | Sept. 27th     | Sept. 29th     |   Oct. 4th     |  Oct. 6th      |
+|--------------|----------------|----------------|----------------|----------------|----------------|----------------|
+| 10:00-11:00  | Set up & intro | Numpy & pandas | Plotting       |  Scipy stats   |                |                |
+| 11:00-12:00  | Basics & flow  | Numpy & pandas | Seaborn        |  Ploting stats |                |                |
 
 Online Resources
 ----------------
