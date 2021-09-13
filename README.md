@@ -1,8 +1,8 @@
 # BIST-master-python-bootcamp
 
-Contents for the scientific python bootcamp of the BIST master of Multidisciplinary Research in Experimental Sciences (2020 course).
+Contents for the scientific python bootcamp of the BIST master of Multidisciplinary Research in Experimental Sciences (2021 course).
 
-The contents of this year's bootcamp are designed based on [previous iterations](https://github.com/germannp/BIST-Python-Bootcamp).
+The contents of this year's bootcamp are designed based on [2020](https://github.com/germannp/BIST-Python-Bootcamp) and [2019] (https://github.com/BorjaRequena/BIST-master-python-bootcamp) editions.
 
 Suggested Installation
 ----------------------
