@@ -15,8 +15,8 @@ Timetable
 
 |              |  Sept. 20rd    | Sept. 22th     | Sept. 27th     | Sept. 29th     |   Oct. 4th     |  Oct. 6th      |
 |--------------|----------------|----------------|----------------|----------------|----------------|----------------|
-| 10:00-11:00  | Set up & intro | Numpy          | Matplotlib     |  Scipy stats   | ODE Integration  |  Final Projects  |
-| 11:00-12:00  | Basics & flow  | Pandas         | Seaborn        |  Plotting stats |  Optimization  | Final Projects  |
+| 10:00-11:00  | Set up & intro | Numpy          | Matplotlib     |ODE Integration |  Scipy stats   |   Final Projects  |
+| 11:00-12:00  | Basics & flow  | Pandas         | Seaborn        |  Optimization  |  Plotting stats| Final Projects  |
 
 Online Resources
 ----------------
